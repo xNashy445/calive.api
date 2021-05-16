@@ -1,7 +1,6 @@
 #alive.api
 
 ```
-
 const alive = require("alive.api");
 const dbl = new alive("TOKEN-HERE", client);
 
@@ -36,4 +35,5 @@ client.on("ready", async () => {
     certificate: 'Certified'
   }
   */
-});```
+});
+

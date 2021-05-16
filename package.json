@@ -1,0 +1,31 @@
+{
+  "name": "alive.api",
+  "version": "0.0.2-beta",
+  "description": "A official calive.tk api.",
+  "main": "calive.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "x"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "vcodes",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "AliveDevelopment",
+  "license": "MIT",
+  "dependencies": {}
+}
